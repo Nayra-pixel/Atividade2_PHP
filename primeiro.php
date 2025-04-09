@@ -6,13 +6,8 @@
 	
 	
 	while($n != 0){
-		if($n > $t){
-		$t = $n;
-		$maior = $t
-		}else{
-		$maior = $n
-		}
-
+	
+	
 	}
 	
 
